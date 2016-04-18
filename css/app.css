@@ -1,5 +1,10 @@
 /*LANDING PAGE GLITCH CSS*/
 
+body {
+    background: black;
+    font-family: 'Varela', sans-serif;
+}
+
 .glitch {
     color: white;
     font-size: 100px;
