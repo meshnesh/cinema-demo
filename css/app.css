@@ -1,12 +1,14 @@
 /*LANDING PAGE GLITCH CSS*/
 
-body {
-    background: black;
+.row {
+    background: url(../img/Assassins-Creed-Logo.png);
+    height: 100%;
     font-family: 'Varela', sans-serif;
 }
 
 .glitch {
     color: white;
+    top: 25%;
     font-size: 100px;
     position: relative;
     width: 400px;
